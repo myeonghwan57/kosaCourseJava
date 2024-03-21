@@ -16,5 +16,4 @@ public class ReadLineExample {
 		}
 		br.close();
 	}
-
 }
